@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maequeabe.dishaan.com/sitemap.xml
